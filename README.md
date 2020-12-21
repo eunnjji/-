@@ -10,10 +10,10 @@
 
 # 3. 내용 정리 (notion 사용)
 * Oracle
-  1. [1일차](https://www.notion.so/Day-1-7aa3cdd661d846cbab3cd3644a30f78c) 
-  1. [2일차](https://www.notion.so/Day-2-a06bc5c3e14a4444b2ba9ce58a5f2969)  
-  1. [3일차]( https://www.notion.so/Day-3-aa35f9ebb5e047dab6d0843c76365913)
-  1. [4일차]( https://www.notion.so/Day-4-2ed763a167dc4d1bb17392102e1eafb9)
+    1. [1일차](https://www.notion.so/Day-1-7aa3cdd661d846cbab3cd3644a30f78c) 
+    2. [2일차](https://www.notion.so/Day-2-a06bc5c3e14a4444b2ba9ce58a5f2969)  
+    3. [3일차]( https://www.notion.so/Day-3-aa35f9ebb5e047dab6d0843c76365913)
+    4. [4일차]( https://www.notion.so/Day-4-2ed763a167dc4d1bb17392102e1eafb9)
  * Python - (anaconda, jupyter notebook)
-  1. [5일차]( https://www.notion.so/Day-5-19ae789d81cd41148254b23b1ab49076)
-  1. [6일차]( https://www.notion.so/Day-6-78e089eb06b74e7b992dae5f153055ef)
+    1. [5일차]( https://www.notion.so/Day-5-19ae789d81cd41148254b23b1ab49076)
+    2. [6일차]( https://www.notion.so/Day-6-78e089eb06b74e7b992dae5f153055ef)
