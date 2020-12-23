@@ -18,4 +18,4 @@
     1. [5일차]( https://www.notion.so/Day-5-19ae789d81cd41148254b23b1ab49076)
     2. [6일차]( https://www.notion.so/Day-6-78e089eb06b74e7b992dae5f153055ef)
     3. [7일차]( https://www.notion.so/Day-7-8031c90a93cd41f2b2055e325878f45f)
-    
+    4. [8일차] ( https://www.notion.so/Day-8-008aba90911f427586aa44d73c0840e5 )
