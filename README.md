@@ -19,3 +19,8 @@
     2. [6일차]( https://www.notion.so/Day-6-78e089eb06b74e7b992dae5f153055ef)
     3. [7일차]( https://www.notion.so/Day-7-8031c90a93cd41f2b2055e325878f45f)
     4. [8일차]( https://www.notion.so/Day-8-008aba90911f427586aa44d73c0840e5 )
+    5. [10일차] ( https://www.notion.so/Day-9-05b0c19b59bd43909cb72ccd12423198 )
+
+
+* 기타
+    1. 9일차 - 12.24 오픽특강 및 노동법 (4시간)
