@@ -20,6 +20,7 @@
     3. [7일차]( https://www.notion.so/Day-7-8031c90a93cd41f2b2055e325878f45f)
     4. [8일차]( https://www.notion.so/Day-8-008aba90911f427586aa44d73c0840e5 )
     5. [10일차]( https://www.notion.so/Day-9-05b0c19b59bd43909cb72ccd12423198 )
+    6. [11일차]( https://www.notion.so/Day-11-98c6bc43e471499eb2168a5c24a2193a )
 
 
 * 기타
