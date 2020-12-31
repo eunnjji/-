@@ -21,7 +21,10 @@ MultiCampus - EmpAcademy
     4. [8일차]( https://www.notion.so/Day-8-008aba90911f427586aa44d73c0840e5 )
     5. [10일차]( https://www.notion.so/Day-9-05b0c19b59bd43909cb72ccd12423198 )
     6. [11일차]( https://www.notion.so/Day-11-98c6bc43e471499eb2168a5c24a2193a )
-
+* 웹 크롤링, 스크래핑
+    * [12일차]( https://www.notion.so/Day-12-2943931865774b33ae68ecc0be75d60c )
+* Numpy
+    1. [13일차]( https://www.notion.so/Day-13-c50eddfb6a324dac802c78d92b1981c5 )
 
 * 기타
     1. 9일차 - 12.24 오픽특강 및 노동법 (4시간)
