@@ -25,6 +25,8 @@ MultiCampus - EmpAcademy
     * [12일차]( https://www.notion.so/Day-12-2943931865774b33ae68ecc0be75d60c )
 * Numpy
     1. [13일차]( https://www.notion.so/Day-13-c50eddfb6a324dac802c78d92b1981c5 )
+* Pandas
+    1. [14일차]( https://www.notion.so/Day-14-92a30dbd4c24495995a26b40e7c1fc5e )
 
 * 기타
     1. 9일차 - 12.24 오픽특강 및 노동법 (4시간)
